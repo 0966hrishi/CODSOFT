@@ -1,1 +1,1 @@
-This is a  fully responsive simple calculator developed by HTML,CSS,JAVASCRIPT
+This is a  fully responsive simple calculator developed by using HTML,CSS,JAVASCRIPT
